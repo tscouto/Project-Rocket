@@ -28,4 +28,4 @@ O site é simples, com informações claras sobre os produtos oferecidos pelo ca
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/tscouto/rocketcoffee.git
+   git clone https://github.com/tscouto/Project-Rocket.git
